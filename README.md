@@ -1,9 +1,50 @@
-- Hi...I'm Athira S👋
-- Currently I am doing my Master's Statistics With Specilaization in Data Anlaytics
-- 👀 I’m interested in building Machine Learning models...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi there...👋
+- I am Athira,a passionate Data anlaysis student who loves to code and learn new technologies..
+- Welcome to my GitHub profile!!!
+  ⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️
+
+ ## 🌟 About me
+-🎓 I am currently studying Statistics with Specilaization in Data Analysis...
+
+-🔍 I'm enthusiastic about Data Science and Machine Learning and am always eager to take on exciting new projects...
+
+-🌍 I'm located in Kollam,kerala...
+
+-📧 You can reach me at athiras4555@gmail.com
+
+-🌐 Check out my [Portfolio Website] for more about me.
+
+## 💡 Tech Stack
+
+I'm proficient in a variety of technologies, including:
+
+- 💻 Languages: python, R
+- 🛠️ Development Tools: JupyterLab, PyCharm, R Studio, R
+- 📊 Data Analysis: Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Jupyter Notebook, R
+- 🤖 Machine Learning and Deep Learning: Tensorflow, Keras, OpenCV
+- ✍️ Typesetting: LaTeX
+
+## 🌱 I'm Currently Learning
+
+I'm currently focused on:
+
+- 📊 Data Analysis and Visualization
+- 🐍 Python Programming
+- 🤖 Machine Learning
+
+
+
+  ##### Let's connect and collaborate:
+
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/athira-s-799b7b274)
+- kaggle: (https://www.kaggle.com/athirasudevankeerthy)
+- Portfolio: [Your Portfolio Website]
+
+
+
+Feel free to explore my repositories, and don't hesitate to reach out for collaboration or just to say hi! 😄
+
+
 
 <!---
 Athira0702/Athira0702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
