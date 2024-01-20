@@ -12,7 +12,7 @@
 
 -📧 You can reach me at athiras4555@gmail.com
 
--🌐 Check out my [Portfolio Website] for more about me.
+-🌐
 
 ## 💡 Tech Stack
 
