@@ -4,7 +4,7 @@
   ⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️
 
  ## 🌟 About me
--🎓 I am currently studying Statistics with Specilaization in Data Analysis...
+-🎓 Recent Post Graduate in Statistics with Specilaization in Data Analysis...
 
 -🔍 I'm enthusiastic about Data Science and Machine Learning and am always eager to take on exciting new projects...
 
@@ -22,6 +22,9 @@ I'm proficient in a variety of technologies, including:
 - 🛠️ Development Tools: JupyterLab, PyCharm, R Studio, R
 - 📊 Data Analysis: Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Jupyter Notebook, R
 - 🤖 Machine Learning and Deep Learning: Tensorflow, Keras, OpenCV
+- Data Visualization: Power Bi, Tablue
+- SQL
+- Advanced Excel
 - ✍️ Typesetting: LaTeX
 
 ## 🌱 I'm Currently Learning
@@ -36,7 +39,7 @@ I'm currently focused on:
 
   ##### Let's connect and collaborate:
 
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/athira-s-799b7b274)
+- LinkedIn: [Athira S](www.linkedin.com/in/athira-s-799b7b274)
 - kaggle: (https://www.kaggle.com/athirasudevankeerthy)
 - Portfolio: [Your Portfolio Website]
 
