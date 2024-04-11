@@ -22,7 +22,7 @@ I'm proficient in a variety of technologies, including:
 - 🛠️ Development Tools: JupyterLab, PyCharm, R Studio, R
 - 📊 Data Analysis: Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Jupyter Notebook, R
 - 🤖 Machine Learning and Deep Learning: Tensorflow, Keras, OpenCV
-- Data Visualization: Power Bi, Tablue
+- Data Visualization: Power Bi, Tableau
 - SQL
 - Advanced Excel
 - ✍️ Typesetting: LaTeX
