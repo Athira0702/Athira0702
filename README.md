@@ -1,5 +1,5 @@
 - Hi there...👋
-- I am Athira,a passionate Data anlaysis student who loves to code and learn new technologies..
+- I am Athira,a passionate Data analyst who loves to code and learn new technologies..
 - Welcome to my GitHub profile!!!
   ⚡️⚡️⚡️⚡️⚡️⚡️⚡️⚡️
 
@@ -19,11 +19,11 @@
 I'm proficient in a variety of technologies, including:
 
 - 💻 Languages: python, R
-- 🛠️ Development Tools: JupyterLab, PyCharm, R Studio, R
+- 🛠️ Development Tools: JupyterLab, R Studio, R, Valentino Studio
 - 📊 Data Analysis: Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn, Jupyter Notebook, R
 - 🤖 Machine Learning and Deep Learning: Tensorflow, Keras, OpenCV
 - Data Visualization: Power Bi, Tableau
-- SQL
+- SQL, PostgreSQL, MySQL
 - Advanced Excel
 - ✍️ Typesetting: LaTeX
 
